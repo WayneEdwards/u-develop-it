@@ -1,3 +1,3 @@
 # u-develop-it
-Module 12 SQL project
+Module 12 SQL Project
 
